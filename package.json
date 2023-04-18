@@ -1,0 +1,24 @@
+{
+  "name": "wakaotto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imouto1994/wakaotto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imouto1994/wakaotto/issues"
+  },
+  "homepage": "https://github.com/imouto1994/wakaotto#readme",
+  "dependencies": {
+    "encoding-japanese": "^2.0.0",
+    "glob": "^9.3.4",
+    "prompts": "^2.4.2"
+  }
+}
