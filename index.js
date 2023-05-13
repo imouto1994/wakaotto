@@ -17,12 +17,12 @@ const PREFIX = "otto";
     const lines = entries.map((entry, index) => {
       const line = entry.message;
       if (line.startsWith("［")) {
-        const matches = line.match(/^\［(.*)\］\：(.*)$/);
+        const matches = line.match(/^\［(.+?)\］\：(.*)$/);
         if (matches == null) {
           console.error("UNIDENTIFIED FORMAT", index, line);
           return line;
         }
-        return `［${matches[1]}］：「${matches[2]}」`;
+        return `${matches[1]}：「${matches[2]}」`;
       }
 
       return line;
