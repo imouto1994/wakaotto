@@ -25,7 +25,7 @@ const PREFIX = "otto";
         return `${matches[1]}：「${matches[2]}」`;
       }
 
-      return `（${line}）`;
+      return line;
     });
 
     const charCount = lines.reduce((count, line) => count + line.length, 0);
