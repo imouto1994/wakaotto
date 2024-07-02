@@ -3,13 +3,13 @@ const path = require("path");
 const { glob } = require("glob");
 
 (async () => {
-  const translatedFilePaths = await glob("translated/*.txt");
+  const translatedFilePaths = await glob("clean-temp/*.txt");
   for (const translatedFilePath of translatedFilePaths) {
     const [, translatedFileName] = translatedFilePath.split("/");
     const cleanFileName = translatedFileName
       .substring(0, translatedFileName.indexOf("["))
       .trim();
-    const cleanFilePath = `clean/${cleanFileName}`;
+    const cleanFilePath = `clean-final/${cleanFileName}`;
 
     const translatedFileContent = await fsPromise.readFile(translatedFilePath, {
       encoding: "utf-8",
