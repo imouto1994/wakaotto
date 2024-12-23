@@ -25,16 +25,9 @@ const { glob } = require("glob");
         return;
       }
 
-      if (validSpeakerMatch != null) {
-        entries.push({
-          name: validSpeakerMatch[1],
-          message: validSpeakerMatch[2],
-        });
-      } else {
-        entries.push({
-          message: line,
-        });
-      }
+      entries.push({
+        message: line,
+      });
     }
 
     await fsPromise.writeFile(

@@ -1,0 +1,2483 @@
+[
+  {
+    "message": "...The next day..."
+  },
+  {
+    "message": "Yusaku: \"Hey, Akizuki!!\""
+  },
+  {
+    "message": "Shota: \"Y-yes, Chief Kazama.\""
+  },
+  {
+    "message": "Yusaku: \"...An empty lunch box.\""
+  },
+  {
+    "message": "Shota: \"Ah...\""
+  },
+  {
+    "message": "Yusaku: \"Tell your wife 'thanks for the meal' for me.\""
+  },
+  {
+    "message": "Shota: \"O-okay.\""
+  },
+  {
+    "message": "Yusaku: \"Puhah... guh...\""
+  },
+  {
+    "message": "Shota: \"...!\""
+  },
+  {
+    "message": "Yusaku: \"...Did you need something from me?\""
+  },
+  {
+    "message": "Shota: \"Y-yes, um...\""
+  },
+  {
+    "message": "Yusaku: \"...What is it?\""
+  },
+  {
+    "message": "Shota: \"No... it's... nothing...\""
+  },
+  {
+    "message": "Yusaku: \"You must have been busy yesterday, huh?\""
+  },
+  {
+    "message": "Shota: \"Huh?\""
+  },
+  {
+    "message": "Yusaku: \"You were inspecting the new government housing.\""
+  },
+  {
+    "message": "Shota: \"I was nervous doing it alone, but somehow...\""
+  },
+  {
+    "message": "Yusaku: \"The guys from the Civil Engineering Section were praising you.\""
+  },
+  {
+    "message": "Shota: \"R-really?\""
+  },
+  {
+    "message": "Yusaku: \"They seemed impressed with the documentation you put together.\""
+  },
+  {
+    "message": "Shota: \"Ah, thank you.\""
+  },
+  {
+    "message": "Yusaku: \"Keep up the good work. You're the hope of the Budget Compilation Section.\""
+  },
+  {
+    "message": "Shota: \"Yes, I'll do my best to be useful.\""
+  },
+  {
+    "message": "Yusaku: \"Heh...\""
+  },
+  {
+    "message": "Did you really want to ask about the lunch box?"
+  },
+  {
+    "message": "Of course you did."
+  },
+  {
+    "message": "Your beloved wife made it, even for your boss."
+  },
+  {
+    "message": "But you don't have to worry."
+  },
+  {
+    "message": "You just play the mediator between me and Chihiro."
+  },
+  {
+    "message": "Thanks to that, I got it properly."
+  },
+  {
+    "message": "It's like the resignation in your wife's eyes."
+  },
+  {
+    "message": "But if you're going to do it, you might as well aim for perfection."
+  },
+  {
+    "message": "Your only show of resistance."
+  },
+  {
+    "message": "The contents of the lunch box are almost the same."
+  },
+  {
+    "message": "I realized it when I had him taste it before eating."
+  },
+  {
+    "message": "Yusaku: \"Hmph...\""
+  },
+  {
+    "message": "Well, that's fine."
+  },
+  {
+    "message": "It's just like your wife."
+  },
+  {
+    "message": "At first, just as she was told, only mine was extravagant."
+  },
+  {
+    "message": "But her conscience wouldn't allow it."
+  },
+  {
+    "message": "Comparing the contents of her beloved husband's lunch box."
+  },
+  {
+    "message": "In the end, they were almost identical."
+  },
+  {
+    "message": "I can see it in my head."
+  },
+  {
+    "message": "You, sighing as you close the lid."
+  },
+  {
+    "message": "You were prepared to be scolded by me, weren't you?"
+  },
+  {
+    "message": "Don't worry."
+  },
+  {
+    "message": "I have a proper return gift prepared."
+  },
+  {
+    "message": "A dark fantasy I thought up in the infirmary."
+  },
+  {
+    "message": "I'll give you a humiliation beyond what you've experienced so far...."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Receptionist: \"Ms. Akizuki.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes...\""
+  },
+  {
+    "message": "Receptionist: \"Please come in.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "A little nervous."
+  },
+  {
+    "message": "Wipes her sweaty palms on her jeans."
+  },
+  {
+    "message": "Then quietly opens the door to the examination room."
+  },
+  {
+    "message": "Male Obstetrician: \"Let's see...\""
+  },
+  {
+    "message": "The doctor, still looking at the medical chart."
+  },
+  {
+    "message": "He's not looking at me."
+  },
+  {
+    "message": "Urged by the nurse, I sit down on the round chair in front of me."
+  },
+  {
+    "message": "Chihiro: \"...How is it?\""
+  },
+  {
+    "message": "Male Obstetrician: \"Looking at the results of your urine test, it seems you are pregnant.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "I didn't know how to react."
+  },
+  {
+    "message": "Should I smile brightly?"
+  },
+  {
+    "message": "Should I just nod?"
+  },
+  {
+    "message": "Male Obstetrician: \"Eight days past your expected period...\""
+  },
+  {
+    "message": "Chihiro: \"...Yes.\""
+  },
+  {
+    "message": "Male Obstetrician: \"Normally, I'd like to wait and see a bit more, but in your case, you've been coming here regularly...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Considering the results of the urine test, you can pretty much be sure... Congratulations.\""
+  },
+  {
+    "message": "Chihiro: \"Ah, thank you...\""
+  },
+  {
+    "message": "Male Obstetrician: \"You may have some anxieties unique to your first pregnancy, but your body will adapt properly. So, you don't have to worry.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Don't worry, it's fine."
+  },
+  {
+    "message": "The doctor, looking at me for the first time."
+  },
+  {
+    "message": "His face is smiling brightly."
+  },
+  {
+    "message": "White clothes."
+  },
+  {
+    "message": "White teeth."
+  },
+  {
+    "message": "His hair is cut short."
+  },
+  {
+    "message": "He looks very clean."
+  },
+  {
+    "message": "I'm glad."
+  },
+  {
+    "message": "A reputable hospital indeed."
+  },
+  {
+    "message": "Male Obstetrician: \"Shall we proceed with the examination?\""
+  },
+  {
+    "message": "Chihiro: \"Huh?\""
+  },
+  {
+    "message": "Male Obstetrician: \"...\""
+  },
+  {
+    "message": "No further explanation."
+  },
+  {
+    "message": "He shifts his gaze back to the medical chart."
+  },
+  {
+    "message": "Nurse: \"Please come this way.\""
+  },
+  {
+    "message": "The nurse approaches me to take over."
+  },
+  {
+    "message": "She expertly guides me behind the curtain."
+  },
+  {
+    "message": "Of course, this is expected."
+  },
+  {
+    "message": "It's a path everyone takes to give birth."
+  },
+  {
+    "message": "Nurse: \"Please remove your underwear and place your feet on the table. You can keep your clothes on.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes.\""
+  },
+  {
+    "message": "The sound of the curtain closing."
+  },
+  {
+    "message": "I loosen my belt."
+  },
+  {
+    "message": "I neatly fold my jeans."
+  },
+  {
+    "message": "I slip my underwear into the gap."
+  },
+  {
+    "message": "I gently place it in the laundry basket."
+  },
+  {
+    "message": "Chihiro: \"Ah...!\""
+  },
+  {
+    "message": "The cool examination table."
+  },
+  {
+    "message": "First, I take a breather sitting in a gymnasium-style seat."
+  },
+  {
+    "message": "Then, I put my right foot in the U-shaped part."
+  },
+  {
+    "message": "Followed by my left foot."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "What an incredible position."
+  },
+  {
+    "message": "Even if it's inevitable, it's certainly embarrassing."
+  },
+  {
+    "message": "The old me might not have been able to do this."
+  },
+  {
+    "message": "A little courage to do this."
+  },
+  {
+    "message": "Probably because I didn't even have that."
+  },
+  {
+    "message": "Chihiro: \"Phew...\""
+  },
+  {
+    "message": "The strangeness of being here."
+  },
+  {
+    "message": "Looking at the pure white ceiling, I really think about that."
+  },
+  {
+    "message": "When I went outside, I had no destination."
+  },
+  {
+    "message": "I just didn't want to be alone in that room."
+  },
+  {
+    "message": "Without thinking, I casually wandered to the next town."
+  },
+  {
+    "message": "Before I knew it, I had ended up at this hospital."
+  },
+  {
+    "message": "But while waiting for the test results in the waiting room."
+  },
+  {
+    "message": "The blurred reason became gradually clear."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Another choice I shouldn't make."
+  },
+  {
+    "message": "Perhaps, to prevent that, I am here."
+  },
+  {
+    "message": "Male Obstetrician: \"I will move the curtain.\""
+  },
+  {
+    "message": "Chihiro: \"Ah... Y-yes... go ahead...\""
+  },
+  {
+    "message": "I was a little surprised at the sudden voice."
+  },
+  {
+    "message": "But the incredibly soft tone reassures me."
+  },
+  {
+    "message": "Consideration for me, a first-time mother."
+  },
+  {
+    "message": "It came across more than words could convey."
+  },
+  {
+    "message": "I'm okay now."
+  },
+  {
+    "message": "I don't mind being seen by this doctor."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Please relax.\""
+  },
+  {
+    "message": "Chihiro: \"I-I'll try my best.\""
+  },
+  {
+    "message": "Male Obstetrician: \"Try your best?\""
+  },
+  {
+    "message": "Chihiro: \"Try to relax...\""
+  },
+  {
+    "message": "Male Obstetrician: \"...I see.\""
+  },
+  {
+    "message": "Oh no."
+  },
+  {
+    "message": "I'm saying weird things."
+  },
+  {
+    "message": "It must be because I'm nervous."
+  },
+  {
+    "message": "The sensation of my legs tensing up."
+  },
+  {
+    "message": "It seems more strength is going into it than I realize."
+  },
+  {
+    "message": "I need to relax."
+  },
+  {
+    "message": "Squeeze..."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "The sound of putting on rubber gloves."
+  },
+  {
+    "message": "Right after, the doctor touches me."
+  },
+  {
+    "message": "My private area."
+  },
+  {
+    "message": "He's spreading the entrance to my vagina with his fingers."
+  },
+  {
+    "message": "Chihiro: \"Ugh...\""
+  },
+  {
+    "message": "I take back my initial word."
+  },
+  {
+    "message": "It's embarrassing after all."
+  },
+  {
+    "message": "Male Obstetrician: \"I'll wipe a bit with cotton wool.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes.\""
+  },
+  {
+    "message": "Could it be dirty?"
+  },
+  {
+    "message": "Or is there a strange smell?"
+  },
+  {
+    "message": "No."
+  },
+  {
+    "message": "That can't be."
+  },
+  {
+    "message": "I took a shower five times from yesterday to this morning."
+  },
+  {
+    "message": "Of course, I made sure before I left..."
+  },
+  {
+    "message": "Male Obstetrician: \"Tell me if it hurts.\""
+  },
+  {
+    "message": "Squeeze...push..."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "The clinking of metal."
+  },
+  {
+    "message": "Something cold is entering my vagina."
+  },
+  {
+    "message": "At first, it's flat and extremely smooth."
+  },
+  {
+    "message": "But the deeper it goes, the more resistance I feel."
+  },
+  {
+    "message": "Could it be shaped like a crocodile's mouth?"
+  },
+  {
+    "message": "It must be."
+  },
+  {
+    "message": "Male Obstetrician: \"...Relax your body.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes.\""
+  },
+  {
+    "message": "Squeak, squeak, squeak."
+  },
+  {
+    "message": "This time it sounds like a screw being turned."
+  },
+  {
+    "message": "Because I'm tense, that sound is particularly noticeable."
+  },
+  {
+    "message": "Chihiro: \"Ugh...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Are you okay?\""
+  },
+  {
+    "message": "Chihiro: \"I'm... fine...\""
+  },
+  {
+    "message": "Actually, it hurt a little."
+  },
+  {
+    "message": "But I'll endure it."
+  },
+  {
+    "message": "I don't want the doctor to dislike me."
+  },
+  {
+    "message": "Right now, I don't want to lose an ally."
+  },
+  {
+    "message": "Squeak... squeak... squeak..."
+  },
+  {
+    "message": "Squeak... squeak... squeak..."
+  },
+  {
+    "message": "Chihiro: \"Hi...u...h...\""
+  },
+  {
+    "message": "I'm being slowly dilated."
+  },
+  {
+    "message": "Not just at the entrance, but all the way inside."
+  },
+  {
+    "message": "The sensation of the mucous membrane coming into direct contact with the air."
+  },
+  {
+    "message": "I hate how easily I can imagine what's happening."
+  },
+  {
+    "message": "Male Obstetrician: \"Please stay still.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes, I understand.\""
+  },
+  {
+    "message": "The doctor sits down on the chair."
+  },
+  {
+    "message": "His face is right near my private area."
+  },
+  {
+    "message": "I can vaguely sense his movements from the shift in the air."
+  },
+  {
+    "message": "Male Obstetrician: \"Hmm...\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Male Obstetrician: \"...\""
+  },
+  {
+    "message": "Chihiro: \"Ugh...k...h...\""
+  },
+  {
+    "message": "I'm being peeked at."
+  },
+  {
+    "message": "The inside of my body."
+  },
+  {
+    "message": "My vagina, spread out like a cave."
+  },
+  {
+    "message": "Chihiro: \"Ah...u...\""
+  },
+  {
+    "message": "I mustn't fidget."
+  },
+  {
+    "message": "It's much better compared to yesterday."
+  },
+  {
+    "message": "The person is a clean and respectable doctor."
+  },
+  {
+    "message": "Completely different from that dirty chief."
+  },
+  {
+    "message": "Male Obstetrician: \"We're almost done.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes.\""
+  },
+  {
+    "message": "After that demon left."
+  },
+  {
+    "message": "I cried until my tears ran dry."
+  },
+  {
+    "message": "Right until Shou was about to come home."
+  },
+  {
+    "message": "But the moment I opened the front door and saw his face."
+  },
+  {
+    "message": "I realized I had one thing to lean on."
+  },
+  {
+    "message": "Chihiro: \"(I wasn't violated...)\""
+  },
+  {
+    "message": "I've been repeating this phrase ever since."
+  },
+  {
+    "message": "At first, to comfort myself."
+  },
+  {
+    "message": "Now, to not lose sight of the light of hope."
+  },
+  {
+    "message": "The fact that I wasn't violated is a blessing in disguise."
+  },
+  {
+    "message": "I should be preserving my chastity by a hair's breadth."
+  },
+  {
+    "message": "That large penis."
+  },
+  {
+    "message": "If it entered me, it wouldn't end simply."
+  },
+  {
+    "message": "The mental damage would be more than now."
+  },
+  {
+    "message": "My precious part would surely tear."
+  },
+  {
+    "message": "Chihiro: \"Ugh...\""
+  },
+  {
+    "message": "I shudder just thinking about it."
+  },
+  {
+    "message": "The stamina when he made me do it with my mouth."
+  },
+  {
+    "message": "Because I remembered that."
+  },
+  {
+    "message": "The chief's veiny penis."
+  },
+  {
+    "message": "Me, being rubbed rough by that thickness."
+  },
+  {
+    "message": "It would probably be so painful I might faint."
+  },
+  {
+    "message": "But that's what the demon would do."
+  },
+  {
+    "message": "No matter how much I cry and scream, he wouldn't stop."
+  },
+  {
+    "message": "10 minutes, 20 minutes."
+  },
+  {
+    "message": "Maybe it would even continue for 30 minutes."
+  },
+  {
+    "message": "If I went through that, even a pregnancy test would be impossible."
+  },
+  {
+    "message": "Swelling from excessive friction."
+  },
+  {
+    "message": "A genital that screams 'we had rough sex.'"
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "No."
+  },
+  {
+    "message": "I couldn't show the doctor out of embarrassment."
+  },
+  {
+    "message": "Male Obstetrician: \"Oops...\""
+  },
+  {
+    "message": "Chihiro: \"Eh?\""
+  },
+  {
+    "message": "Male Obstetrician: \"Let's wipe once more.\""
+  },
+  {
+    "message": "Chihiro: \"...?\""
+  },
+  {
+    "message": "A silver, shiny pair of tweezers."
+  },
+  {
+    "message": "I caught a glimpse of it through the gap in the swaying curtain."
+  },
+  {
+    "message": "The tip holds a pure white cotton swab."
+  },
+  {
+    "message": "It traces my private area."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "It's a bit similar."
+  },
+  {
+    "message": "To the sensation when the chief licked me."
+  },
+  {
+    "message": "But I mustn't remember it."
+  },
+  {
+    "message": "I promised myself I would erase it from my memory."
+  },
+  {
+    "message": "Male Obstetrician: \"You've never had any sexually transmitted diseases, right?\""
+  },
+  {
+    "message": "Chihiro: \"Eh?\""
+  },
+  {
+    "message": "Male Obstetrician: \"Have you ever felt anything unusual in the past?\""
+  },
+  {
+    "message": "Chihiro: \"N-no, not particularly...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Hmm...\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "I wonder what's going on."
+  },
+  {
+    "message": "I'm starting to feel uneasy."
+  },
+  {
+    "message": "Chihiro: \"Um...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Yes.\""
+  },
+  {
+    "message": "Chihiro: \"Is there something you're concerned about...?\""
+  },
+  {
+    "message": "Male Obstetrician: \"Do you normally have a lot of discharge?\""
+  },
+  {
+    "message": "Chihiro: \"N-no...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Then, it might be an early sign of pregnancy.\""
+  },
+  {
+    "message": "I felt a jolt."
+  },
+  {
+    "message": "Chihiro: \"Ugh...\""
+  },
+  {
+    "message": "My navel area feels itchy."
+  },
+  {
+    "message": "The movement of the tweezers continues uninterrupted."
+  },
+  {
+    "message": "With each back-and-forth, the cotton swab gets damp."
+  },
+  {
+    "message": "I was stunned by that overly obscene sensation."
+  },
+  {
+    "message": "Could it be that I'm wet?"
+  },
+  {
+    "message": "And in a place like this?"
+  },
+  {
+    "message": "Male Obstetrician: \"I'll remove the speculum now.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes...\""
+  },
+  {
+    "message": "It slips out easily."
+  },
+  {
+    "message": "Chihiro: \"Hmm...\""
+  },
+  {
+    "message": "There's no resistance."
+  },
+  {
+    "message": "It falls out as if sliding on its own."
+  },
+  {
+    "message": "I'm definitely wet."
+  },
+  {
+    "message": "And it's not just a little."
+  },
+  {
+    "message": "I'm blushing all the way to my ears."
+  },
+  {
+    "message": "If possible, I want to wipe it vigorously myself."
+  },
+  {
+    "message": "Male Obstetrician: \"A new cotton swab...\""
+  },
+  {
+    "message": "Nurse: \"Did we run out already?\""
+  },
+  {
+    "message": "Male Obstetrician: \"You don't need to say unnecessary things.\""
+  },
+  {
+    "message": "Nurse: \"...I'm sorry.\""
+  },
+  {
+    "message": "Chihiro: \"Um...\""
+  },
+  {
+    "message": "Male Obstetrician: \"Please wait a moment.\""
+  },
+  {
+    "message": "Chihiro: \"I-I'll handle it myself...\""
+  },
+  {
+    "message": "Male Obstetrician: \"We need to properly treat it.\""
+  },
+  {
+    "message": "Chihiro: \"Really, I-I can, really...\""
+  },
+  {
+    "message": "Male Obstetrician: \"...\""
+  },
+  {
+    "message": "A moment of silence."
+  },
+  {
+    "message": "Male Obstetrician: \"Well, shall we put a pad on? Otherwise, I think your underwear will get 'that'.\""
+  },
+  {
+    "message": "'That' underwear."
+  },
+  {
+    "message": "Meaning it's going to get wet."
+  },
+  {
+    "message": "Male Obstetrician: \"Then, this.\""
+  },
+  {
+    "message": "Through the gap in the curtain, the doctor's hand."
+  },
+  {
+    "message": "He gently places something like a large bandage on my lower abdomen."
+  },
+  {
+    "message": "Male Obstetrician: \"You can put your underwear back on now.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes...I'm...sorry...\""
+  },
+  {
+    "message": "I speak in a barely audible voice."
+  },
+  {
+    "message": "I shrink and get off the examination table."
+  },
+  {
+    "message": "I hurriedly put on my underwear without the pad."
+  },
+  {
+    "message": "It's fine because I'm wearing jeans."
+  },
+  {
+    "message": "No matter what's happening down there, I'm ignoring it now."
+  },
+  {
+    "message": "I don't want to sigh miserably here."
+  },
+  {
+    "message": "I can do that once I get home."
+  },
+  {
+    "message": "Chihiro: \"Kuh...\""
+  },
+  {
+    "message": "I purposely tighten my belt."
+  },
+  {
+    "message": "I figured that putting strain on my body would help me feign composure."
+  },
+  {
+    "message": "Then, I return the laundry basket to its place."
+  },
+  {
+    "message": "I check my clothes and take a small deep breath."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "It was when I looked around one last time to make sure I hadn't forgotten anything."
+  },
+  {
+    "message": "I notice the small trash can next to the examination table."
+  },
+  {
+    "message": "Surprised."
+  },
+  {
+    "message": "It's half filled with damp cotton swabs."
+  },
+  {
+    "message": "All of it, mine?"
+  },
+  {
+    "message": "The nurse's words replay in my head."
+  },
+  {
+    "message": "\"Did we run out already?\""
+  },
+  {
+    "message": "It's an amount that would be surprising."
+  },
+  {
+    "message": "There are even ones that would drop if picked up."
+  },
+  {
+    "message": "Chihiro: \"(Ah...)\""
+  },
+  {
+    "message": "What should I do?"
+  },
+  {
+    "message": "I'm sure the doctor has misunderstood."
+  },
+  {
+    "message": "He must think that I was feeling strange."
+  },
+  {
+    "message": "His talk about diseases and discharge was just out of consideration."
+  },
+  {
+    "message": "\"Please don't get too excited.\""
+  },
+  {
+    "message": "If the doctor wasn't kind, I would surely be told that."
+  },
+  {
+    "message": "The nurse giggles at those words."
+  },
+  {
+    "message": "My medical chart might be written with \"lewd wet woman\"."
+  },
+  {
+    "message": "How embarrassing."
+  },
+  {
+    "message": "If there was a hole, I would want to hide in it."
+  },
+  {
+    "message": "I stand still in the partitioned space."
+  },
+  {
+    "message": "Unable to move."
+  },
+  {
+    "message": "Unable to open the curtain."
+  },
+  {
+    "message": "Not a fragment of courage springs forth..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "........."
+  },
+  {
+    "message": "...Later that day, at 11 PM..."
+  },
+  {
+    "message": "Ding-dong."
+  },
+  {
+    "message": "Chihiro: \"Welcome home.\""
+  },
+  {
+    "message": "Shota: \"...I'm back.\""
+  },
+  {
+    "message": "Chihiro: \"You were late today, too.\""
+  },
+  {
+    "message": "Shota: \"Yeah.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "He loosens his tie and heads to the living room."
+  },
+  {
+    "message": "He seems a bit off."
+  },
+  {
+    "message": "He was out until midnight yesterday too, so he must be tired."
+  },
+  {
+    "message": "Chihiro: \"Do you want to take a bath first?\""
+  },
+  {
+    "message": "Shota: \"Before that...\""
+  },
+  {
+    "message": "Chihiro: \"...?\""
+  },
+  {
+    "message": "Shota: \"Actually, it's about this.\""
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "The paper bag he held out."
+  },
+  {
+    "message": "The one I put two lunch boxes in and handed to Shota."
+  },
+  {
+    "message": "Shota: \"The chief said thank you.\""
+  },
+  {
+    "message": "Chihiro: \"S-so.\""
+  },
+  {
+    "message": "Shota: \"Are you going to make one for Monday too?\""
+  },
+  {
+    "message": "Chihiro: \"N-no...\""
+  },
+  {
+    "message": "Shota: \"Just for today?\""
+  },
+  {
+    "message": "Chihiro: \"Probably...\""
+  },
+  {
+    "message": "Shota: \"Because you're always grateful to him?\""
+  },
+  {
+    "message": "Chihiro: \"Eh?\""
+  },
+  {
+    "message": "Shota: \"You said that when you gave me this paper bag, didn't you?\""
+  },
+  {
+    "message": "Chihiro: \"W-well... yeah.\""
+  },
+  {
+    "message": "Shota: \"But why a lunch box?\""
+  },
+  {
+    "message": "Chihiro: \"I couldn't think of anything else...\""
+  },
+  {
+    "message": "Shota: \"So, for you, homemade means something you do when you can't think of anything else.\""
+  },
+  {
+    "message": "Chihiro: \"N-not necessarily...\""
+  },
+  {
+    "message": "Shota: \"This isn't good.\""
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "Shota: \"I thought about it when I handed it to the section chief. I casually accepted it this morning, but as lunch approached, I started to feel bad...\""
+  },
+  {
+    "message": "Chihiro: \"I... I'm sorry.\""
+  },
+  {
+    "message": "Shota: \"Of course, I don't think you meant any harm... but you are my wife, Chihiro.\""
+  },
+  {
+    "message": "Squeeze."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "Shota hugs me tightly."
+  },
+  {
+    "message": "I just shrink in apology."
+  },
+  {
+    "message": "Shota: \"...\""
+  },
+  {
+    "message": "Chihiro: \"I'm sorry...\""
+  },
+  {
+    "message": "Shota: \"Yeah.\""
+  },
+  {
+    "message": "Chihiro: \"I'm... really... sorry...\""
+  },
+  {
+    "message": "Shota: \"As long as you understand.\""
+  },
+  {
+    "message": "I feel like crying."
+  },
+  {
+    "message": "But I won't cry."
+  },
+  {
+    "message": "Because that's unfair."
+  },
+  {
+    "message": "I keep apologizing in my heart."
+  },
+  {
+    "message": "I cling tightly to Shota, hoping he can feel even a bit of it."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "What's happening?"
+  },
+  {
+    "message": "My body is tingling."
+  },
+  {
+    "message": "I'm so excited."
+  },
+  {
+    "message": "Not just me, he is too."
+  },
+  {
+    "message": "He's quickly gotten hard."
+  },
+  {
+    "message": "I realize we haven't done it in about 10 days."
+  },
+  {
+    "message": "This is the longest we've gone without since we got married."
+  },
+  {
+    "message": "Chihiro: \"H-hey...\""
+  },
+  {
+    "message": "Shota: \"Hmm?\""
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "My face is hot."
+  },
+  {
+    "message": "My heart is pounding."
+  },
+  {
+    "message": "I feel like I'm about to say something crazy."
+  },
+  {
+    "message": "Shota: \"What?\""
+  },
+  {
+    "message": "Chihiro: \"I... I want to... have sex...\""
+  },
+  {
+    "message": "Shota: \"...\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "I can't see his face."
+  },
+  {
+    "message": "But he seems surprised."
+  },
+  {
+    "message": "It's the first time I've ever initiated."
+  },
+  {
+    "message": "Shota: \"R-right now?\""
+  },
+  {
+    "message": "Chihiro: \"If... if you're okay with it, Shota.\""
+  },
+  {
+    "message": "Shota: \"I... I don't mind at all...\""
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "The moment I finish speaking, a storm of kisses."
+  },
+  {
+    "message": "He breathes passionate breaths onto every exposed part of my skin."
+  },
+  {
+    "message": "Shota is unbelievably excited."
+  },
+  {
+    "message": "I've never seen him like this before."
+  },
+  {
+    "message": "Is it because of the lunch box?"
+  },
+  {
+    "message": "Or is it because I initiated for the first time?"
+  },
+  {
+    "message": "Chihiro: \"Ah... don't...\""
+  },
+  {
+    "message": "Suddenly, his arm is under my skirt."
+  },
+  {
+    "message": "He roughly fondles my precious part."
+  },
+  {
+    "message": "I'm simply happy."
+  },
+  {
+    "message": "That I still have the right to be touched this way."
+  },
+  {
+    "message": "Shota: \"Ch...Chihiro...\""
+  },
+  {
+    "message": "Chihiro: \"Ah... not... not so suddenly... stop...\""
+  },
+  {
+    "message": "I was pinned against the kitchen sink."
+  },
+  {
+    "message": "Then my skirt was lifted high up."
+  },
+  {
+    "message": "From behind?"
+  },
+  {
+    "message": "In a position we haven't done since it hurt me last time?"
+  },
+  {
+    "message": "Chihiro: \"S-Shota...\""
+  },
+  {
+    "message": "Shota: \"Huff... huff... huff... haa...\""
+  },
+  {
+    "message": "Chihiro: \"Ah, don't be too rough...\""
+  },
+  {
+    "message": "Shota: \"I... I'm going to ravish you.\""
+  },
+  {
+    "message": "Chihiro: \"No... don't say things like that...\""
+  },
+  {
+    "message": "No."
+  },
+  {
+    "message": "No matter it's Shota, it's a bit scary."
+  },
+  {
+    "message": "He's a little too excited."
+  },
+  {
+    "message": "If he thrusts into me with this momentum, it'll be intense."
+  },
+  {
+    "message": "Surely the baby would be surprised."
+  },
+  {
+    "message": "I was really planning to talk about it during dinner."
+  },
+  {
+    "message": "The timing is strange, but I have to tell him first."
+  },
+  {
+    "message": "Chihiro: \"Um, you know...\""
+  },
+  {
+    "message": "Shota: \"Haa... haa... haa... haa...\""
+  },
+  {
+    "message": "Chihiro: \"Ah, are you listening?\""
+  },
+  {
+    "message": "Slip."
+  },
+  {
+    "message": "Chihiro: \"Kyaa!\""
+  },
+  {
+    "message": "My underwear was pulled down to my knees."
+  },
+  {
+    "message": "The living room lights are still on."
+  },
+  {
+    "message": "Shota can probably see all the way to my backside."
+  },
+  {
+    "message": "Chihiro: \"Wait...\""
+  },
+  {
+    "message": "Shota: \"No.\""
+  },
+  {
+    "message": "Chihiro: \"Ah, actually, I went to the obstetrician today...\""
+  },
+  {
+    "message": "Shota: \"Huh?\""
+  },
+  {
+    "message": "Shota's movements stop abruptly."
+  },
+  {
+    "message": "Chihiro: \"...It's confirmed.\""
+  },
+  {
+    "message": "Shota: \"What is?\""
+  },
+  {
+    "message": "Chihiro: \"I... It seems I'm pregnant...\""
+  },
+  {
+    "message": "Shota: \"...\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "This time, not only his movements but his breath also stopped."
+  },
+  {
+    "message": "Shota: \"...Se-seriously?\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes...\""
+  },
+  {
+    "message": "I nervously await his next words."
+  },
+  {
+    "message": "Squeeze."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "Shota: \"We did it, didn't we.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "I'm hugged again."
+  },
+  {
+    "message": "Much gentler than before."
+  },
+  {
+    "message": "Shota: \"We did it, we did it.\""
+  },
+  {
+    "message": "Chihiro: \"Is... is it okay?\""
+  },
+  {
+    "message": "Shota: \"What is?\""
+  },
+  {
+    "message": "Chihiro: \"So, about the baby...\""
+  },
+  {
+    "message": "Shota: \"Of course it's okay.\""
+  },
+  {
+    "message": "Chihiro: \"But Shota, you said it was too soon... before...\""
+  },
+  {
+    "message": "Shota: \"It's a gift from God, isn't it?\""
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "I can't anymore."
+  },
+  {
+    "message": "Now the tears won't stop."
+  },
+  {
+    "message": "Shota: \"Is it a boy, is it a girl.\""
+  },
+  {
+    "message": "Chihiro: \"We... we don't know that yet...\""
+  },
+  {
+    "message": "Shota: \"I'll help with anything, so don't hesitate to ask.\""
+  },
+  {
+    "message": "Chihiro: \"Y-yes... sniff... thank... you...\""
+  },
+  {
+    "message": "Shota: \"Let's go buy baby clothes tomorrow.\""
+  },
+  {
+    "message": "Chihiro: \"...Even though we don't know if it's a boy or a girl?\""
+  },
+  {
+    "message": "Shota: \"Then, I guess I'll stop by the store on the way back. I'm already being called by the section chief, so I'll just drop by on my way home.\""
+  },
+  {
+    "message": "Chihiro: \"!?\""
+  },
+  {
+    "message": "My body froze."
+  },
+  {
+    "message": "Being summoned by that devil?"
+  },
+  {
+    "message": "Stop joking on such a day."
+  },
+  {
+    "message": "The tears welling up in my eyes are about to take on a different meaning."
+  },
+  {
+    "message": "Chihiro: \"You're working even though it's Sunday?\""
+  },
+  {
+    "message": "Shota: \"Hmm, I'm not sure if it's work or not. But he said it wouldn't take long, so I think I'll be back soon.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Shota: \"I wonder if I should report it to Section Chief Sama.\""
+  },
+  {
+    "message": "Chihiro: \"About the baby?\""
+  },
+  {
+    "message": "Shota: \"Yeah.\""
+  },
+  {
+    "message": "Chihiro: \"No, you can't.\""
+  },
+  {
+    "message": "Shota: \"...\""
+  },
+  {
+    "message": "I shouldn't have."
+  },
+  {
+    "message": "I unintentionally raised my voice."
+  },
+  {
+    "message": "Chihiro: \"...I think it's okay to wait a little longer.\""
+  },
+  {
+    "message": "Shota: \"If Chihiro says so... I'll keep it a secret for now...\""
+  },
+  {
+    "message": "Chihiro: \"...I'm sorry.\""
+  },
+  {
+    "message": "Shota: \"You don't have to apologize for that. I feel like I'm being apologized to along with the baby.\""
+  },
+  {
+    "message": "Chihiro: \"...?\""
+  },
+  {
+    "message": "Shota was humming."
+  },
+  {
+    "message": "He loosened his tie and started to undress."
+  },
+  {
+    "message": "His suit usually left on the table."
+  },
+  {
+    "message": "Yet for some reason he's hanging it up on a hanger himself."
+  },
+  {
+    "message": "Chihiro: \"I'll do it, so just leave it...\""
+  },
+  {
+    "message": "Shota: \"No.\""
+  },
+  {
+    "message": "Chihiro: \"Why?\""
+  },
+  {
+    "message": "Shota: \"Because it's bad for your precious body.\""
+  },
+  {
+    "message": "Chihiro: \"I'm still fine and normal now. That's what the doctor said, too.\""
+  },
+  {
+    "message": "Shota: \"Still, no.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Shota, now in only his underwear."
+  },
+  {
+    "message": "He cheerfully places his bag in its usual spot."
+  },
+  {
+    "message": "His removed socks are in the washing machine."
+  },
+  {
+    "message": "He's moving around by himself, not letting me do anything."
+  },
+  {
+    "message": "Shota: \"I'm going to take a bath.\""
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Chihiro: \"...Huh?\""
+  },
+  {
+    "message": "He's gone."
+  },
+  {
+    "message": "What about sex?"
+  },
+  {
+    "message": "Could it be after he gets out of the bath?"
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "My underwear is still down to my knees under my skirt."
+  },
+  {
+    "message": "I rustle it back into place with my own hands."
+  },
+  {
+    "message": "Chihiro: \"...Sigh.\""
+  },
+  {
+    "message": "I'm feeling a little lonely."
+  },
+  {
+    "message": "But it can't be helped."
+  },
+  {
+    "message": "I'm the one who threw a wet blanket on things."
+  },
+  {
+    "message": "It must have been an unexpected story for him."
+  },
+  {
+    "message": "Shota, who was able to share in the joy."
+  },
+  {
+    "message": "For now, I just have to be thankful for that..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Just before midnight."
+  },
+  {
+    "message": "Shota is already deep in dreamland."
+  },
+  {
+    "message": "After he got out of the bath, he gently kissed my cheek."
+  },
+  {
+    "message": "He ate and then immediately slipped into the futon."
+  },
+  {
+    "message": "Even though it's fine to have normal sex until morning sickness starts."
+  },
+  {
+    "message": "Somehow, I feel awkwardly concerned."
+  },
+  {
+    "message": "Chihiro: \"Sigh…\""
+  },
+  {
+    "message": "Thanks to that, my body is still restless."
+  },
+  {
+    "message": "The sensation of being held won't fade."
+  },
+  {
+    "message": "What would have happened if I hadn't told anything?"
+  },
+  {
+    "message": "I, who was roughly pinned to the sink."
+  },
+  {
+    "message": "Surely he would have put his penis in me right then."
+  },
+  {
+    "message": "Shota was very excited."
+  },
+  {
+    "message": "Of course, I felt the same way."
+  },
+  {
+    "message": "\"...I...want to...have sex...\""
+  },
+  {
+    "message": "Words I've uttered for the first time."
+  },
+  {
+    "message": "I wanted him to hold me that much."
+  },
+  {
+    "message": "If it weren't for the baby, I wouldn't mind from behind."
+  },
+  {
+    "message": "Even if it hurts, it's okay."
+  },
+  {
+    "message": "I want him to mess me up so much that I forget about the unpleasant things."
+  },
+  {
+    "message": "I really thought that."
+  },
+  {
+    "message": "What's troublesome is that it hasn't changed even now."
+  },
+  {
+    "message": "That's why I mix water into the hot water."
+  },
+  {
+    "message": "I'm desperately trying to cool down my frustrated body."
+  },
+  {
+    "message": "Chihiro: \"Phew…\""
+  },
+  {
+    "message": "Something's strange."
+  },
+  {
+    "message": "I'm clearly weird today."
+  },
+  {
+    "message": "I'm in a ridiculously horny mood."
+  },
+  {
+    "message": "If excuses are okay, there are plenty of explanations."
+  },
+  {
+    "message": "It's because I haven't had sex for almost ten days."
+  },
+  {
+    "message": "Some people have a stronger libido in early pregnancy."
+  },
+  {
+    "message": "Even the fact that I wanted to be held by him."
+  },
+  {
+    "message": "Or maybe because I want the last person who touched me to be Shota."
+  },
+  {
+    "message": "The humiliation given by the section chief."
+  },
+  {
+    "message": "Something that won't come off no matter how much I wash."
+  },
+  {
+    "message": "I want to erase that."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "But what will I do when it's erased?"
+  },
+  {
+    "message": "The nightmare isn't over yet."
+  },
+  {
+    "message": "I'll be defiled again anyway."
+  },
+  {
+    "message": "Using that picture shown at the entrance."
+  },
+  {
+    "message": "The harassment escalates more and more."
+  },
+  {
+    "message": "At worst, with that grotesque penis…"
+  },
+  {
+    "message": "I clenched."
+  },
+  {
+    "message": "Chihiro: \"No, no...\""
+  },
+  {
+    "message": "My lower abdomen contracted sharply."
+  },
+  {
+    "message": "I instinctively squatted down on my shaking knees."
+  },
+  {
+    "message": "I squirm for a while."
+  },
+  {
+    "message": "I can't muster the strength to stand up."
+  },
+  {
+    "message": "Chihiro: \"Ugh…Kuh…\""
+  },
+  {
+    "message": "A bad premonition."
+  },
+  {
+    "message": "Could it be again?"
+  },
+  {
+    "message": "To prevent bacteria from entering, I washed my hands well with soap."
+  },
+  {
+    "message": "Then, I timidly put my finger towards my private parts."
+  },
+  {
+    "message": "It's slimy."
+  },
+  {
+    "message": "Chihiro: \"Ah…\""
+  },
+  {
+    "message": "Enough already."
+  },
+  {
+    "message": "I'm wet again."
+  },
+  {
+    "message": "Even though I just washed."
+  },
+  {
+    "message": "Like an undisciplined dog."
+  },
+  {
+    "message": "Drooling indiscriminately."
+  },
+  {
+    "message": "I feel anger beyond embarrassment."
+  },
+  {
+    "message": "Enough already."
+  },
+  {
+    "message": "Even after being molested."
+  },
+  {
+    "message": "Even when I went to the doctor."
+  },
+  {
+    "message": "Please, don't get wet on your own."
+  },
+  {
+    "message": "What do you want me to do?"
+  },
+  {
+    "message": "What do I have to do to stay normal?"
+  },
+  {
+    "message": "If I could..."
+  },
+  {
+    "message": "I'd like to plug this hateful hole."
+  },
+  {
+    "message": "Nup…"
+  },
+  {
+    "message": "Chihiro: \"Ugh…\""
+  },
+  {
+    "message": "Just with a little force."
+  },
+  {
+    "message": "Yet, my middle finger was easily sucked in."
+  },
+  {
+    "message": "About twice as deep as when I usually wash."
+  },
+  {
+    "message": "The inside of me that I'm touching for the first time."
+  },
+  {
+    "message": "I've never put it in this deep."
+  },
+  {
+    "message": "It's much rougher than near the entrance."
+  },
+  {
+    "message": "But why is it?"
+  },
+  {
+    "message": "Doing this, the restlessness fades."
+  },
+  {
+    "message": "Twitch…"
+  },
+  {
+    "message": "Chihiro: \"Ah…\""
+  },
+  {
+    "message": "A sweet, numbing sensation."
+  },
+  {
+    "message": "I hastily pull out my finger."
+  },
+  {
+    "message": "Chihiro: \"Ah…\""
+  },
+  {
+    "message": "I'm surprised."
+  },
+  {
+    "message": "Probably because my palm touched my clitoris."
+  },
+  {
+    "message": "Usually, I don't even feel its existence."
+  },
+  {
+    "message": "But it was strangely perky."
+  },
+  {
+    "message": "Twitch…Throb…"
+  },
+  {
+    "message": "Chihiro: \"Ah…Ugh…\""
+  },
+  {
+    "message": "It's hard after all."
+  },
+  {
+    "message": "It's gritty."
+  },
+  {
+    "message": "Strange."
+  },
+  {
+    "message": "But strangely enough, it seems like I could forget about the unpleasant things."
+  },
+  {
+    "message": "The nauseating throbbing is gone."
+  },
+  {
+    "message": "Chihiro: \"Mmm…Ah…\""
+  },
+  {
+    "message": "Wait."
+  },
+  {
+    "message": "What am I doing?"
+  },
+  {
+    "message": "I can't do something strange."
+  },
+  {
+    "message": "This kind of thing is not good."
+  },
+  {
+    "message": "It's not fair to Shota."
+  },
+  {
+    "message": "Chihiro: \"Ah…Ha…Ah…\""
+  },
+  {
+    "message": "Even though I think so, my finger doesn't stop moving."
+  },
+  {
+    "message": "I even start to think that I, who am tormenting myself, am hypocritical."
+  },
+  {
+    "message": "A woman who has been humiliated over and over again by a man she doesn't even like."
+  },
+  {
+    "message": "And in the end, I even wet myself."
+  },
+  {
+    "message": "Chihiro: \"Ah…Ha…Ugh…Ha…\""
+  },
+  {
+    "message": "Yes."
+  },
+  {
+    "message": "That man drank my pee."
+  },
+  {
+    "message": "He gulped down something that should have been flushed down the toilet."
+  },
+  {
+    "message": "Unbelievable."
+  },
+  {
+    "message": "Just remembering it makes me nauseous."
+  },
+  {
+    "message": "It's more than just abnormal."
+  },
+  {
+    "message": "But if he went that far..."
+  },
+  {
+    "message": "A question that keeps coming up and disappearing."
+  },
+  {
+    "message": "Why didn't he rape me on the spot?"
+  },
+  {
+    "message": "We were alone in the room."
+  },
+  {
+    "message": "With a man's strength, it should be easy to pin me down."
+  },
+  {
+    "message": "But he didn't."
+  },
+  {
+    "message": "He satisfied his own sexual desire."
+  },
+  {
+    "message": "Because my pussy is dirty?"
+  },
+  {
+    "message": "Or am I not enough of a woman to rape?"
+  },
+  {
+    "message": "Throb…"
+  },
+  {
+    "message": "Chihiro: \"Hi…ku…uh…\""
+  },
+  {
+    "message": "I found it."
+  },
+  {
+    "message": "The place that devil persistently tormented."
+  },
+  {
+    "message": "Near the base of the clitoris, closer to the vaginal side."
+  },
+  {
+    "message": "When I touch here, my lower abdomen goes numb."
+  },
+  {
+    "message": "A sweet sensation gradually spreads."
+  },
+  {
+    "message": "I didn't know I had such a place."
+  },
+  {
+    "message": "Yet, somehow that devil knows."
+  },
+  {
+    "message": "More than I do, for some reason."
+  },
+  {
+    "message": "Twitch…Ugh…"
+  },
+  {
+    "message": "Chihiro: \"Mmm…\""
+  },
+  {
+    "message": "No, no."
+  },
+  {
+    "message": "I let out a slightly loud voice."
+  },
+  {
+    "message": "I have to be careful."
+  },
+  {
+    "message": "If someone in the neighborhood heard, I'd really be embarrassed."
+  },
+  {
+    "message": "Twitch…Twitch…"
+  },
+  {
+    "message": "Chihiro: \"Mmm... Ah... Ha... Mmm...\""
+  },
+  {
+    "message": "Throb, throb."
+  },
+  {
+    "message": "Chihiro: \"Ah… Ah… Mmm… Ha… Mmm… Mmm… Shota...\""
+  },
+  {
+    "message": "If I keep playing with myself like this, will I reach climax?"
+  },
+  {
+    "message": "Probably so."
+  },
+  {
+    "message": "I'm going to cum."
+  },
+  {
+    "message": "Squish... Slurp... Throb..."
+  },
+  {
+    "message": "Chihiro: \"Mmm... Kuu...\""
+  },
+  {
+    "message": "Squish… Squish… Throb… Throb…"
+  },
+  {
+    "message": "Chihiro: \"Ku… Ugh… Ah…\""
+  },
+  {
+    "message": "Throb…"
+  },
+  {
+    "message": "Chihiro: \"Ah… Ah… Ha… Ha… Mmm… Ha… Ha…\""
+  },
+  {
+    "message": "Chihiro: \"Mmm... Kuu... Ha, ha... Ah... Mmm... Ha... Ugh... Ah... Mmm... Mmm... Ha... Ha... Ha...\""
+  },
+  {
+    "message": "It feels good."
+  },
+  {
+    "message": "But I will never do something like this again."
+  },
+  {
+    "message": "Doing it myself is a first and last."
+  },
+  {
+    "message": "I promise."
+  },
+  {
+    "message": "So please forgive me just this once."
+  },
+  {
+    "message": "Throb... Squeeze..."
+  },
+  {
+    "message": "Chihiro: \"Ah… Ugh… Ha… Ah…\""
+  },
+  {
+    "message": "The finger I buried back inside."
+  },
+  {
+    "message": "Each time I play with my clitoris, the path narrows."
+  },
+  {
+    "message": "It feels tight even with this thickness."
+  },
+  {
+    "message": "I finally understood what Shota always said when we were having sex."
+  },
+  {
+    "message": "Chihiro is tight."
+  },
+  {
+    "message": "I don't know who he's comparing me to."
+  },
+  {
+    "message": "But I don't want to ask about the time before we started dating."
+  },
+  {
+    "message": "I'm scared of myself getting terribly jealous."
+  },
+  {
+    "message": "Chihiro: \"Mmm… Mmm…\""
+  },
+  {
+    "message": "I'm about to cum."
+  },
+  {
+    "message": "I have to think about Shota's face."
+  },
+  {
+    "message": "That's the least I can do to atone for my sins."
+  },
+  {
+    "message": "Throb… Throb… Throb…"
+  },
+  {
+    "message": "Chihiro: \"Ku… Ha… Ah…\""
+  },
+  {
+    "message": "I'm cumming."
+  },
+  {
+    "message": "But it's small."
+  },
+  {
+    "message": "So small that I feel silly for bracing myself."
+  },
+  {
+    "message": "I was playing with the same spot."
+  },
+  {
+    "message": "Yet the pleasure is like a tiny pea."
+  },
+  {
+    "message": "On the other hand, the guilt is not half-hearted."
+  },
+  {
+    "message": "It grows like an endless balloon..."
+  },
+  {
+    "message": "Contrary to the subsiding sweet waves."
+  },
+  {
+    "message": "Nup..."
+  },
+  {
+    "message": "Chihiro: \"Ah… Ha…\""
+  },
+  {
+    "message": "I pull my finger out of my vagina."
+  },
+  {
+    "message": "I wash off the slimy part with all my might."
+  },
+  {
+    "message": "I won't do it again."
+  },
+  {
+    "message": "I definitely won't do such a thing."
+  },
+  {
+    "message": "I'm an idiot."
+  },
+  {
+    "message": "Idiot, idiot, idiot, idiot, idiot..."
+  },
+  {
+    "message": "…"
+  },
+  {
+    "message": "Chihiro: \"…\""
+  },
+  {
+    "message": "The quiet living room."
+  },
+  {
+    "message": "The first thing I look at is the sliding door of the Japanese-style room."
+  },
+  {
+    "message": "Shota's snoring that shouldn't be audible."
+  },
+  {
+    "message": "I try to confirm that before anything else."
+  },
+  {
+    "message": "Like a child who has just played a prank."
+  },
+  {
+    "message": "I was shivering alone with guilt."
+  },
+  {
+    "message": "Chihiro: \"Ah…\""
+  },
+  {
+    "message": "I messed up."
+  },
+  {
+    "message": "The paper bag left in the kitchen."
+  },
+  {
+    "message": "It's still as Shota brought it home."
+  },
+  {
+    "message": "Because of my disgust, I naturally put off cleaning up."
+  },
+  {
+    "message": "Of course, not his lunch box, but the devil's."
+  },
+  {
+    "message": "I don't want to touch anything that's been touched by his saliva."
+  },
+  {
+    "message": "But on the other hand, I'm glad."
+  },
+  {
+    "message": "After doing such a thing in the bathroom..."
+  },
+  {
+    "message": "I can't just go to Shou-chan's side right after."
+  },
+  {
+    "message": "I need to cool down my sense of guilt."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "The lunch box that I took out of the bag."
+  },
+  {
+    "message": "One is empty."
+  },
+  {
+    "message": "The other is about half left."
+  },
+  {
+    "message": "Needless to say, the one left uneaten is Shou-chan's."
+  },
+  {
+    "message": "The reason is obvious."
+  },
+  {
+    "message": "Probably because he was shocked by what I did."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "No."
+  },
+  {
+    "message": "Rather than cooling down, my guilt is swelling."
+  },
+  {
+    "message": "He did nothing wrong, yet I've reduced even his appetite."
+  },
+  {
+    "message": "The devil who ate all his food disgusts me."
+  },
+  {
+    "message": "I might just throw it away without washing..."
+  },
+  {
+    "message": "I thought so."
+  },
+  {
+    "message": "For a moment, I was about to put it into the non-burnable garbage bag."
+  },
+  {
+    "message": "But I withdrew."
+  },
+  {
+    "message": "It's best not to do anything extra."
+  },
+  {
+    "message": "It could give Shou-chan a new question."
+  },
+  {
+    "message": "Chihiro: \"Haa...\""
+  },
+  {
+    "message": "First..."
+  },
+  {
+    "message": "I carefully washed the familiar chopsticks of Shou-chan's lunch box that I could wash with ease."
+  },
+  {
+    "message": "Then, the devil's turn."
+  },
+  {
+    "message": "I cleansed my hands with soap."
+  },
+  {
+    "message": "I even put on rubber gloves."
+  },
+  {
+    "message": "Fully protected."
+  },
+  {
+    "message": "Because I don't have the courage to open the lid otherwise."
+  },
+  {
+    "message": "Chihiro: \"...?\""
+  },
+  {
+    "message": "What's this?"
+  },
+  {
+    "message": "Inside the lunch box, there are disposable chopsticks that have been folded in half."
+  },
+  {
+    "message": "There's some kind of paper wrapped around them."
+  },
+  {
+    "message": "Through the oil-stained part, I can see the characters."
+  },
+  {
+    "message": "\"Thank you for the meal\"..."
+  },
+  {
+    "message": "If that's what's written, I feel like I'll get goosebumps."
+  },
+  {
+    "message": "Chihiro: \"Ugh...\""
+  },
+  {
+    "message": "Frustrating."
+  },
+  {
+    "message": "Because it's indirect, I can't unfold the paper well."
+  },
+  {
+    "message": "I have no choice but to remove the gloves."
+  },
+  {
+    "message": "Then, as if touching something dirty, I picked it up with the tip of my fingers."
+  },
+  {
+    "message": "I opened the folded paper with just the part of my nails."
+  },
+  {
+    "message": "Chihiro: \"Ah...\""
+  },
+  {
+    "message": "What assaulted me was not disgust, but a shudder."
+  },
+  {
+    "message": "\"Tomorrow, noon, my house, come\"..."
+  },
+  {
+    "message": "A creepy sentence."
+  },
+  {
+    "message": "A reminder for Shou-chan?"
+  },
+  {
+    "message": "No."
+  },
+  {
+    "message": "It's not him who should see this."
+  },
+  {
+    "message": "The fact that it's deliberately vague is proof of that."
+  },
+  {
+    "message": "It's avoiding the risk of someone other than me seeing it."
+  },
+  {
+    "message": "\"Come to my room at noon tomorrow\"..."
+  },
+  {
+    "message": "This is the message for me."
+  },
+  {
+    "message": "Are you saying with Shou-chan?"
+  },
+  {
+    "message": "I don't know."
+  },
+  {
+    "message": "I didn't hear the time of the promise he made."
+  },
+  {
+    "message": "What on earth?"
+  },
+  {
+    "message": "What does it mean?"
+  },
+  {
+    "message": "My heart beats fast in fear."
+  },
+  {
+    "message": "My fingertips start to tremble with rising anxiety."
+  },
+  {
+    "message": "Chihiro: \"...\""
+  },
+  {
+    "message": "Surely, it's a punishment."
+  },
+  {
+    "message": "Because I did such a thing in the bathroom."
+  },
+  {
+    "message": "I'm sorry."
+  },
+  {
+    "message": "I won't do it anymore."
+  },
+  {
+    "message": "So please."
+  },
+  {
+    "message": "Protect me and Shou-chan from that devil."
+  },
+  {
+    "message": "I don't want to do this anymore."
+  },
+  {
+    "message": "I don't want to be subjected to something terrible."
+  },
+  {
+    "message": "Really, really, I don't want to..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "...."
+  },
+  {
+    "message": "....."
+  }
+]
