@@ -3,7 +3,7 @@ const path = require("path");
 const { glob } = require("glob");
 
 (async () => {
-  const translatedFilePaths = await glob("clean-temp/*.txt");
+  const translatedFilePaths = await glob("clean-final/*.txt");
   translatedFilePaths.sort((s1, s2) => (s1 < s2) - (s1 > s2));
   const nameMap = {};
   for (const translatedFilePath of translatedFilePaths) {

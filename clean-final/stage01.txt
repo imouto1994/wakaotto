@@ -22,7 +22,7 @@ Shota: "Y-Yes, understood."
 ...
 ...
 Ding-dong.
-Chihiro Akizuki: "Coming."
+Chihiro Akizuki <Coming!>
 Shota: "I'm home."
 Chihiro: "Welcome home, Shota. You're late again today."
 Shota: "Haa…"

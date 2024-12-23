@@ -3,6 +3,7 @@ const fsPromise = require("fs/promises");
 const path = require("path");
 const { glob } = require("glob");
 
+// Compare diff between normal file and corresponding _m file (if exists)
 (async () => {
   const filePaths = await glob("otto_output/*.txt");
   filePaths.sort((s1, s2) => (s1 > s2) - (s1 < s2));

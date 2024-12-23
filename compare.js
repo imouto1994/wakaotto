@@ -2,23 +2,26 @@ const fsPromise = require("fs/promises");
 const path = require("path");
 const { glob } = require("glob");
 
+// Compare between English file and Raw file
 (async () => {
-  const translatedFilePaths = await glob("clean/*.txt");
-  translatedFilePaths.sort((s1, s2) => (s1 < s2) - (s1 > s2));
+  const translatedFilePaths = await glob("clean-final/*.txt");
+  translatedFilePaths.sort((s1, s2) => (s1 > s2) - (s1 < s2));
+
   for (const translatedFilePath of translatedFilePaths) {
     const [, translatedFileName] = translatedFilePath.split("/");
     if (translatedFileName.startsWith("temp_")) {
       continue;
     }
-    const originalFilePath = `output/${translatedFileName}`;
-
+    const originalFilePath = `otto_output/${translatedFileName}`;
     const originalFileContent = await fsPromise.readFile(originalFilePath, {
       encoding: "utf-8",
     });
+
     const originalFileLines = originalFileContent
       .split("\n")
       .map((s) => s.trim())
       .filter((s) => s.length > 0);
+
     const translatedFileContent = await fsPromise.readFile(translatedFilePath, {
       encoding: "utf-8",
     });
@@ -35,9 +38,11 @@ const { glob } = require("glob");
     ) {
       const originalLine = originalFileLines[i];
       const translatedLine = translatedFileLines[i];
+
       if (
-        (originalLine.includes(":") && !translatedLine.includes(":")) ||
-        (!originalLine.includes(":") && translatedLine.match(/^.*:.*".+$/))
+        (originalLine.includes("：") &&
+          !translatedLine.match(/^(.+): ".+"$/)) ||
+        (!originalLine.includes("：") && translatedLine.match(/^(.+): ".+"$/))
       ) {
         for (let j = 0; j <= i; j++) {
           console.log(j + 1, originalFileLines[j], translatedFileLines[j]);
@@ -62,6 +67,7 @@ const { glob } = require("glob");
         translatedFileLines.length
       );
       console.log("FILE NAME:", translatedFileName);
+      return;
     }
   }
 })();
