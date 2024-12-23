@@ -125,7 +125,7 @@ Yusaku: "...Did you find it?"
 Chihiro: "But... to you... it's totally..."
 Yusaku: "Just say it."
 Chihiro: "..."
-A green ribbon.
+A green ribbon
 Chihiro: "...A green... ribbon."
 Yusaku: "Huh?"
 Chihiro: "A, a green ribbon."
@@ -522,7 +522,7 @@ Yusaku: "..."
 Yusaku: "Wait a minute."
 Shota: "What is it?"
 Yusaku: "You see..."
-It's nothing.
+It's nothing
 What kind of person is your uncle?
 Yusaku: "It's nothing."
 Shota: "Huh?"

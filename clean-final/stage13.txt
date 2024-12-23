@@ -92,7 +92,7 @@ Chihiro: "Y-yes."
 Shota: "With that, our preparations are perfect."
 Yusaku: "Hey..."
 Looking forward to tomorrow?
-You're lucky to have such a capable wife.
+You're lucky to have such a capable wife
 Yusaku: "Looking forward to tomorrow?"
 Shota: "If we're doing it, we'll give it our all."
 Yusaku: "...That's a good attitude."
@@ -122,7 +122,7 @@ Chihiro: "Yes, I have prepared ten portions of noodles... and several types of s
 Shota: "As expected of my wife. I can really rely on you."
 Yusaku: "..."
 Looks at his wife without saying anything
-She might be more useful than her husband if put to work
+She might be more useful than her husband
 *Stare*...
 Chihiro: "Ugh..."
 Shota: "Chihiro might be well-suited to be a secretary."

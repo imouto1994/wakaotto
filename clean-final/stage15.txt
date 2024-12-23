@@ -83,7 +83,7 @@ Chihiro: "Huh?"
 Yusaku: "To do that, all you have to do is the opposite of what caused it."
 Chihiro: "I... I don't understand what you're saying."
 Yusaku: "You'll understand soon. But before that..."
-First, your face.
+First, your face
 Yusaku: "First, your face."
 Chihiro: "My... face?"
 Yusaku: "Try to smile with ease."
@@ -112,7 +112,7 @@ Chihiro: "...How is it?"
 Yusaku: "It's a bit forced, but I guess that's how it is."
 Chihiro: "I'm... I'm glad."
 Yusaku: "Then next..."
-Imagine me as your uncle without changing your expression.
+Imagine me as your uncle
 Yusaku: "Imagine me as your uncle without changing your expression."
 Chihiro: "Huh...?"
 Yusaku: "Without changing your expression."
@@ -190,7 +190,7 @@ Do you have a boy you like at school?
 What do you usually do at home for fun?
 Who do you usually take a bath with?
 Chihiro's chest has gotten bigger, hasn't it?
-You're probably growing pubic hair by now, right?
+You're already growing pubic hair, right?
 What color do you like for your underwear?
 Yusaku: "What do you like to eat?"
 Chihiro: "Uh, omelettes and hamburgers."
