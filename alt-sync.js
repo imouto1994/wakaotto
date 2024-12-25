@@ -127,12 +127,15 @@ const ALT_MAP = {
   ],
 };
 
+const REVERSED_ALT_MAP = {};
+
 (async () => {
   const translatedFilePaths = await glob("clean-final-json/*.json");
   const originalFilePaths = await glob("otto_json/*.json");
   translatedFilePaths.sort((s1, s2) => (s1 > s2) - (s1 < s2));
   originalFilePaths.sort((s1, s2) => (s1 > s2) - (s1 < s2));
 
+  // Event files with `_m`
   for (const translatedFilePath of translatedFilePaths) {
     const [, translatedFileName] = translatedFilePath.split("/");
     const translatedFileNameWithoutExtension = translatedFileName.replace(
@@ -177,5 +180,27 @@ const ALT_MAP = {
       altFilePath,
       JSON.stringify(outputLines, null, 2)
     );
+  }
+
+  // Event files without `_m`
+  for (const translatedFilePath of translatedFilePaths) {
+    const [, translatedFileName] = translatedFilePath.split("/");
+    const translatedFileNameWithoutExtension = translatedFileName.replace(
+      ".json",
+      ""
+    );
+    if (
+      !translatedFileNameWithoutExtension.startsWith("ev") ||
+      translatedFileNameWithoutExtension.endsWith("_m")
+    ) {
+      continue;
+    }
+
+    const fileContent = await fsPromise.readFile(translatedFilePath, {
+      encoding: "utf-8",
+    });
+    const lines = JSON.parse(fileContent);
+    const altFilePath = translatedFilePath.replace(".json", "_m.json");
+    await fsPromise.writeFile(altFilePath, JSON.stringify(lines, null, 2));
   }
 })();
